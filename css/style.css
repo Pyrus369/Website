@@ -15,13 +15,3 @@ body {
 	border-radius: 50%;
 	max-width: 300px;
 }
-
-a {
-    text-decoration: none;
-}
-a:link, a:visited {
-    color: blue;
-}
-a:hover {
-    color: red;
-}
