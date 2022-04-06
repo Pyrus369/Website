@@ -39,3 +39,9 @@ body {
     margin-right: 2%;
 
 }
+
+/* Apply padding to td elements that are direct children of the tr elements with class spaceUnder. */
+
+tr.spaceUnder>td {
+    padding-bottom: 1em;
+  }
